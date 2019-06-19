@@ -1,3 +1,11 @@
+/**
+ * TODO:
+ *
+ *  <input type='date' min="YYYY-MM-DD">
+ *  <input type='date' max="YYYY-MM-DD">
+ *  <input type='date' min="YYYY-MM-DD" max="YYYY-MM-DD">
+ *
+ **/
 class Picker {
   constructor() {
     // This is a singleton.
